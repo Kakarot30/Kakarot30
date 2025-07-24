@@ -10,7 +10,7 @@
 -   🌱 I’m currently learning **Full Stack Development** and **Cloud Technologies**.
 -   👯 I’m looking to collaborate on exciting **Open Source projects**.
 -   💬 Ask me about **JavaScript, Python, and anything tech-related**!
--   📫 How to reach me: **[Your Email Here]**
+-   📫 How to reach me: **nikunj2430@gmail.com**
 -   ⚡ Fun fact: My power level is over 9000! *(in lines of code, of course 😉)*
 
 ---
